@@ -1,4 +1,4 @@
-# fibonacci recursion examples using TypeScript 
+# Graph Search implemented on 2D matrix using TypeScript. 
 
 > graph search implemented on 2D matrix using TypeScript. 
 
